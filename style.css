@@ -20,14 +20,6 @@ html{
   font-size: 16px;
 }
 
-#card-container {
-  background: #eee;
-  max-width: 900px;
-  margin: 30px auto;
-  padding: 20px;
-/*   outline: 1px solid #ccc; */
-}
-
 
 /* Fonts */
 h1, h2, h3 {
@@ -63,6 +55,14 @@ p{
 font-weight: 300;
 
   color: var(--color-dark);
+}
+
+#card-container {
+  background: #eee;
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 20px;
+/*   outline: 1px solid #ccc; */
 }
 
 .arBtn {
